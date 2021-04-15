@@ -1,0 +1,30 @@
+REGEDIT
+; This .REG file may be used by your SETUP program.
+;   If a SETUP program is not available, the entries below will be
+;   registered in your InitInstance automatically with a call to
+;   CWinApp::RegisterShellFileTypes and COleObjectFactory::UpdateRegistryAll.
+
+HKEY_CLASSES_ROOT\.IV = OleDemo.Document
+HKEY_CLASSES_ROOT\OleDemo.Document\shell\open\command = OLEDEMO.EXE %1
+HKEY_CLASSES_ROOT\OleDemo.Document\shell\open\ddeexec = [open("%1")]
+HKEY_CLASSES_ROOT\OleDemo.Document\shell\open\ddeexec\application = OLEDEMO
+    ; note: the application is optional
+    ;  (it defaults to the app name in "command")
+
+HKEY_CLASSES_ROOT\OleDemo.Document = OleDem Document
+HKEY_CLASSES_ROOT\OleDemo.Document\protocol\StdFileEditing\server = OLEDEMO.EXE
+HKEY_CLASSES_ROOT\OleDemo.Document\protocol\StdFileEditing\verb\0 = &Edit
+HKEY_CLASSES_ROOT\OleDemo.Document\Insertable =
+HKEY_CLASSES_ROOT\OleDemo.Document\CLSID = {B2D92206-986F-11CF-9F8E-BF205B5DE712}
+
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712} = OleDem Document
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\DefaultIcon = OLEDEMO.EXE,1
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\LocalServer32 = OLEDEMO.EXE
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\ProgId = OleDemo.Document
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\MiscStatus = 32
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\AuxUserType\3 = OleDemo
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\AuxUserType\2 = OleDem
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\Insertable = 
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\verb\1 = &Open,0,2
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\verb\0 = &Edit,0,2
+HKEY_CLASSES_ROOT\CLSID\{B2D92206-986F-11CF-9F8E-BF205B5DE712}\InprocHandler32 = ole32.dll

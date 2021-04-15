@@ -1,0 +1,5 @@
+repo: 813b1087f44e43e9f44b7ed852dc192597698264
+node: 27d65f42e3bc8d1d01bbf37cf66727b6a228a03c
+branch: default
+latesttag: SoXt-1.3.0
+latesttagdistance: 1

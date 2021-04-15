@@ -1,0 +1,196 @@
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIDEVICE.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiDevice.cpp.in:src\Inventor\Win\devices\SoWinDeviceCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIDEVICE.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiDevice.h.in:src\Inventor\Win\devices\SoWinDevice.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIDEVICEP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiDeviceP.h.in:src\Inventor\Win\devices\SoGuiDeviceP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIINPUTFOCUS.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiInputFocus.cpp.in:src\Inventor\Win\devices\SoWinInputFocusCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIINPUTFOCUS.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiInputFocus.h.in:src\Inventor\Win\devices\SoWinInputFocus.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIINPUTFOCUSP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiInputFocusP.h.in:src\Inventor\Win\devices\SoGuiInputFocusP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIKEYBOARD.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiKeyboard.cpp.in:src\Inventor\Win\devices\SoWinKeyboardCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIKEYBOARD.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiKeyboard.h.in:src\Inventor\Win\devices\SoWinKeyboard.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIKEYBOARDP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiKeyboardP.h.in:src\Inventor\Win\devices\SoGuiKeyboardP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIMOUSE.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiMouse.cpp.in:src\Inventor\Win\devices\SoWinMouseCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIMOUSE.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiMouse.h.in:src\Inventor\Win\devices\SoWinMouse.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\DEVICES\SOGUIMOUSEP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\devices\SoGuiMouseP.h.in:src\Inventor\Win\devices\SoGuiMouseP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\EDITORS\SOGUICOLOREDITOR.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\editors\SoGuiColorEditor.cpp.in:src\Inventor\Win\editors\SoWinColorEditor.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\EDITORS\SOGUICOLOREDITOR.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\editors\SoGuiColorEditor.h.in:src\Inventor\Win\editors\SoWinColorEditor.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\EDITORS\SOGUIMATERIALEDITOR.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\editors\SoGuiMaterialEditor.cpp.in:src\Inventor\Win\editors\SoWinMaterialEditor.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\EDITORS\SOGUIMATERIALEDITOR.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\editors\SoGuiMaterialEditor.h.in:src\Inventor\Win\SoWinMaterialEditor.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\ENGINES.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\Engines.cpp.in:src\Inventor\Win\engines\Engines.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\ENGINES.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\Engines.h.in:src\Inventor\Win\engines\SoGuiEngines.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\FORMAT.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\Format.cpp.in:src\Inventor\Win\engines\Format.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\FORMAT.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\Format.h.in:src\Inventor\Win\engines\SoGuiFormat.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\RADIOGROUP.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\RadioGroup.cpp.in:src\Inventor\Win\engines\RadioGroup.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\ENGINES\RADIOGROUP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\engines\RadioGroup.h.in:src\Inventor\Win\engines\SoGuiRadioGroup.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\GL.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\gl.h.in:src\Inventor\Win\common\gl.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\CLICKCOUNTER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ClickCounter.cpp.in:src\Inventor\Win\nodes\ClickCounter.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\CLICKCOUNTER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ClickCounter.h.in:src\Inventor\Win\nodes\SoGuiClickCounter.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\COLOREDITOR.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ColorEditor.cpp.in:src\Inventor\Win\nodes\ColorEditor.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\COLOREDITOR.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ColorEditor.h.in:src\Inventor\Win\nodes\SoGuiColorEditor.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\FRAME.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Frame.cpp.in:src\Inventor\Win\nodes\Frame.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\FRAME.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Frame.h.in:src\Inventor\Win\nodes\SoGuiFrame.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\IMAGE.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Image.cpp.in:src\Inventor\Win\nodes\Image.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\IMAGE.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Image.h.in:src\Inventor\Win\nodes\SoGuiImage.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\LABEL.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Label.cpp.in:src\Inventor\Win\nodes\Label.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\LABEL.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Label.h.in:src\Inventor\Win\nodes\SoGuiLabel.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\MATERIALEDITOR.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\MaterialEditor.cpp.in:src\Inventor\Win\nodes\MaterialEditor.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\MATERIALEDITOR.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\MaterialEditor.h.in:src\Inventor\Win\nodes\SoGuiMaterialEditor.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\NODES.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Nodes.cpp.in:src\Inventor\Win\nodes\Nodes.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\NODES.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Nodes.h.in:src\Inventor\Win\nodes\SoGuiNodes.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\PANE.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Pane.cpp.in:src\Inventor\Win\nodes\Pane.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\PANE.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Pane.h.in:src\Inventor\Win\nodes\SoGuiPane.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\POSITION.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Position.cpp.in:src\Inventor\Win\nodes\Position.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\POSITION.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Position.h.in:src\Inventor\Win\nodes\SoGuiPosition.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\RADIOBUTTON.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\RadioButton.cpp.in:src\Inventor\Win\nodes\RadioButton.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\RADIOBUTTON.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\RadioButton.h.in:src\Inventor\Win\nodes\SoGuiRadioButton.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SCENETEXTURE2.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\SceneTexture2.cpp.in:src\Inventor\Win\nodes\SceneTexture2.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SCENETEXTURE2.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\SceneTexture2.h.in:src\Inventor\Win\nodes\SoGuiSceneTexture2.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SLIDER1.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Slider1.cpp.in:src\Inventor\Win\nodes\Slider1.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SLIDER1.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Slider1.h.in:src\Inventor\Win\nodes\SoGuiSlider1.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SLIDER2.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Slider2.cpp.in:src\Inventor\Win\nodes\Slider2.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\SLIDER2.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Slider2.h.in:src\Inventor\Win\nodes\SoGuiSlider2.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\TOGGLEBUTTON.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ToggleButton.cpp.in:src\Inventor\Win\nodes\ToggleButton.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\TOGGLEBUTTON.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ToggleButton.h.in:src\Inventor\Win\nodes\SoGuiToggleButton.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\TRANSLATION.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Translation.cpp.in:src\Inventor\Win\nodes\Translation.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\TRANSLATION.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\Translation.h.in:src\Inventor\Win\nodes\SoGuiTranslation.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\VIEWPOINTWRAPPER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ViewpointWrapper.cpp.in:src\Inventor\Win\nodes\ViewpointWrapper.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\VIEWPOINTWRAPPER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ViewpointWrapper.h.in:src\Inventor\Win\nodes\SoGuiViewpointWrapper.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\VIEWPORTFIX.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ViewportFix.cpp.in:src\Inventor\Win\nodes\ViewportFix.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\NODES\VIEWPORTFIX.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\nodes\ViewportFix.h.in:src\Inventor\Win\nodes\SoGuiViewportFix.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOANY.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoAny.cpp.in:src\Inventor\Win\SoAny.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOANY.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoAny.h.in:src\Inventor\Win\SoAny.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUI.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGui.h.in:src\Inventor\Win\SoWin.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICOMMON.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiCommon.cpp.in:src\Inventor\Win\SoWinCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICOMPONENT.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiComponent.h.in:src\Inventor\Win\SoWinComponent.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICOMPONENTCOMMON.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiComponentCommon.cpp.in:src\Inventor\Win\SoWinComponentCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICOMPONENTP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiComponentP.h.in:src\Inventor\Win\SoGuiComponentP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICURSOR.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiCursor.cpp.in:src\Inventor\Win\SoWinCursor.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUICURSOR.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiCursor.h.in:src\Inventor\Win\SoWinCursor.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIGLWIDGET.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiGLWidget.h.in:src\Inventor\Win\SoWinGLWidget.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIGLWIDGETCOMMON.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiGLWidgetCommon.cpp.in:src\Inventor\Win\SoWinGLWidgetCommon.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIGLWIDGETP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiGLWidgetP.h.in:src\Inventor\Win\SoGuiGLWidgetP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIOBJECT.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiObject.cpp.in:src\Inventor\Win\SoWinObject.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIOBJECT.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiObject.h.in:src\Inventor\Win\SoWinObject.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiP.h.in:src\Inventor\Win\SoGuiP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIRENDERAREA.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiRenderArea.cpp.in:src\Inventor\Win\SoWinRenderArea.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SOGUIRENDERAREA.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\SoGuiRenderArea.h.in:src\Inventor\Win\SoWinRenderArea.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SPWINPUT.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\spwinput.h.in:src\Inventor\Win\devices\spwinput.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SPWINPUT_WIN32.C.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\spwinput_win32.c.in:src\Inventor\Win\devices\spwinput_win32.c
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SPWINPUT_WIN32.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\spwinput_win32.h.in:src\Inventor\Win\devices\spwinput_win32.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\SPWINPUT_X11.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\spwinput_x11.cpp.in:src\Inventor\Win\devices\spwinput_x11.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUICONSTRAINEDVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiConstrainedViewer.cpp.in:src\Inventor\Win\viewers\SoWinConstrainedViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUICONSTRAINEDVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiConstrainedViewer.h.in:src\Inventor\Win\viewers\SoWinConstrainedViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIEXAMINERVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiExaminerViewer.cpp.in:src\Inventor\Win\viewers\SoWinExaminerViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIEXAMINERVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiExaminerViewer.h.in:src\Inventor\Win\viewers\SoWinExaminerViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIEXAMINERVIEWERP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiExaminerViewerP.h.in:src\Inventor\Win\viewers\SoGuiExaminerViewerP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIFLYVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiFlyViewer.cpp.in:src\Inventor\Win\viewers\SoWinFlyViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIFLYVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiFlyViewer.h.in:src\Inventor\Win\viewers\SoWinFlyViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIFULLVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiFullViewer.cpp.in:src\Inventor\Win\viewers\SoWinFullViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIFULLVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiFullViewer.h.in:src\Inventor\Win\viewers\SoWinFullViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIFULLVIEWERP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiFullViewerP.h.in:src\Inventor\Win\viewers\SoGuiFullViewerP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIPLANEVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiPlaneViewer.cpp.in:src\Inventor\Win\viewers\SoWinPlaneViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIPLANEVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiPlaneViewer.h.in:src\Inventor\Win\viewers\SoWinPlaneViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIPLANEVIEWERP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiPlaneViewerP.h.in:src\Inventor\Win\viewers\SoGuiPlaneViewerP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIVIEWER.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiViewer.cpp.in:src\Inventor\Win\viewers\SoWinViewer.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIVIEWER.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiViewer.h.in:src\Inventor\Win\viewers\SoWinViewer.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\VIEWERS\SOGUIVIEWERP.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\viewers\SoGuiViewerP.h.in:src\Inventor\Win\viewers\SoGuiViewerP.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\WIDGETS\SOANYTHUMBWHEEL.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\widgets\SoAnyThumbWheel.cpp.in:src\Inventor\Win\widgets\SoAnyThumbWheel.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\WIDGETS\SOANYTHUMBWHEEL.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\widgets\SoAnyThumbWheel.h.in:src\Inventor\Win\widgets\SoAnyThumbWheel.h
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\WIDGETS\SOGUIPOPUPMENU.CPP.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\widgets\SoGuiPopupMenu.cpp.in:src\Inventor\Win\widgets\SoWinPopupMenu.cpp
+^C:\COIN3D\SRC\INVENTOR\WIN\COMMON\WIDGETS\SOGUIPOPUPMENU.H.IN
+..\..\cfg\csubst --file=..\..\src\Inventor\Win\common\widgets\SoGuiPopupMenu.h.in:src\Inventor\Win\widgets\SoWinPopupMenu.h

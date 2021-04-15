@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="DLL (Debug)|Win32">
+      <Configuration>DLL (Debug)</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DLL (Release)|Win32">
+      <Configuration>DLL (Release)</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="LIB (Debug)|Win32">
+      <Configuration>LIB (Debug)</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="LIB (Release)|Win32">
+      <Configuration>LIB (Release)</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <Keyword>MakeFileProj</Keyword>
+    <ProjectGuid>{9564DB55-BA18-4098-9A17-F6233538FCFE}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Debug)|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Release)|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Release)|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Debug)|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Debug)|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Release)|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Release)|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Debug)|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>16.0.29904.37</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Debug)|Win32'">
+    <OutDir>.\Debug\</OutDir>
+    <IntDir>.\Debug\</IntDir>
+    <NMakeBuildCommandLine>..\misc\install-sdk.bat dll debug msvc8 sowin1</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>..\misc\install-sdk.bat dll debug msvc8 sowin1 </NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine />
+    <NMakeOutput>sowin1_install.exe</NMakeOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL (Release)|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <NMakeBuildCommandLine>..\misc\install-sdk.bat dll release msvc8 sowin1</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>..\misc\install-sdk.bat dll release msvc8 sowin1 </NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine />
+    <NMakeOutput>sowin1_install.exe</NMakeOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Release)|Win32'">
+    <OutDir>.\StaticRelease\</OutDir>
+    <IntDir>.\StaticRelease\</IntDir>
+    <NMakeBuildCommandLine>..\misc\install-sdk.bat lib release msvc8 sowin1</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>..\misc\install-sdk.bat lib release msvc8 sowin1 </NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine />
+    <NMakeOutput>sowin1_install.exe</NMakeOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LIB (Debug)|Win32'">
+    <OutDir>.\StaticDebug\</OutDir>
+    <IntDir>.\StaticDebug\</IntDir>
+    <NMakeBuildCommandLine>..\misc\install-sdk.bat lib debug msvc8 sowin1</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>..\misc\install-sdk.bat lib debug msvc8 sowin1 </NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine />
+    <NMakeOutput>sowin1_install.exe</NMakeOutput>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\misc\create-directories.bat" />
+    <None Include="..\misc\install-headers.bat" />
+    <None Include="..\misc\install-sdk.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="sowin1.vcxproj">
+      <Project>{33922cc8-3892-4e07-b977-41f55488f356}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,264 @@
+﻿  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiDevice.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiDevice.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiDeviceP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiInputFocus.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiInputFocus.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiInputFocusP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiKeyboard.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiKeyboard.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiKeyboardP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiMouse.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiMouse.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\devices\SoGuiMouseP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\editors\SoGuiColorEditor.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\editors\SoGuiColorEditor.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\editors\SoGuiMaterialEditor.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\editors\SoGuiMaterialEditor.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\Engines.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\Engines.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\Format.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\Format.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\RadioGroup.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\engines\RadioGroup.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\gl.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ClickCounter.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ClickCounter.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ColorEditor.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ColorEditor.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Frame.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Frame.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Image.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Image.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Label.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Label.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\MaterialEditor.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\MaterialEditor.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Nodes.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Nodes.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Pane.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Pane.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Position.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Position.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\RadioButton.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\RadioButton.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\SceneTexture2.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\SceneTexture2.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Slider1.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Slider1.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Slider2.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Slider2.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ToggleButton.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ToggleButton.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Translation.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\Translation.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ViewpointWrapper.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ViewpointWrapper.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ViewportFix.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\nodes\ViewportFix.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoAny.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoAny.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGui.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiCommon.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiComponent.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiComponentCommon.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiComponentP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiCursor.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiCursor.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiGLWidget.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiGLWidgetCommon.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiGLWidgetP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiObject.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiObject.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiRenderArea.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\SoGuiRenderArea.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\spwinput.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\spwinput_win32.c.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\spwinput_win32.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\spwinput_x11.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiConstrainedViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiConstrainedViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiExaminerViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiExaminerViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiExaminerViewerP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiFlyViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiFlyViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiFullViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiFullViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiFullViewerP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiPlaneViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiPlaneViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiPlaneViewerP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiViewer.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiViewer.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\viewers\SoGuiViewerP.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\widgets\SoAnyThumbWheel.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\widgets\SoAnyThumbWheel.h.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\widgets\SoGuiPopupMenu.cpp.in
+  subst'ing C:\Coin3D\src\Inventor\Win\common\widgets\SoGuiPopupMenu.h.in
+  SoWinDevice.cpp
+  SoWinInputFocus.cpp
+  SoWinKeyboard.cpp
+  SoWinMouse.cpp
+  SoWinSpacenavDevice.cpp
+  SoWinDeviceCommon.cpp
+  SoWinInputFocusCommon.cpp
+  SoWinKeyboardCommon.cpp
+  SoWinMouseCommon.cpp
+  spwinput_x11.cpp
+  Generating Code...
+  SoWin.cpp
+C:\Coin3D\src\Inventor\Win\SoWin.cpp(308,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\SoWin.cpp(310,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  SoWinComponent.cpp
+  SoWinGLWidget.cpp
+  Win32API.cpp
+C:\Coin3D\src\Inventor\Win\Win32API.cpp(650,1): warning C4996: 'GetVersionExA': was declared deprecated
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(387): message : see declaration of 'GetVersionExA'
+  SoAny.cpp
+C:\Coin3D\build\msvc8\src\Inventor\Win\SoAny.cpp(492,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : see declaration of 'strdup'
+  SoWinCommon.cpp
+C:\Coin3D\build\msvc8\src\Inventor\Win\SoWinCommon.cpp(181,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+  SoWinComponentCommon.cpp
+  SoWinCursor.cpp
+  SoWinGLWidgetCommon.cpp
+  SoWinObject.cpp
+  SoWinRenderArea.cpp
+C:\Coin3D\build\msvc8\src\Inventor\Win\SoWinRenderArea.cpp(618,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+  Generating Code...
+  ExaminerViewer.cpp
+  FullViewer.cpp
+C:\Coin3D\src\Inventor\Win\viewers\FullViewer.cpp(479,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  PlaneViewer.cpp
+  SoWinConstrainedViewer.cpp
+  SoWinExaminerViewer.cpp
+  SoWinFlyViewer.cpp
+C:\Coin3D\build\msvc8\src\Inventor\Win\viewers\SoWinFlyViewer.cpp(358,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  SoWinFullViewer.cpp
+  SoWinPlaneViewer.cpp
+  SoWinViewer.cpp
+C:\Coin3D\build\msvc8\src\Inventor\Win\viewers\SoWinViewer.cpp(322,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\build\msvc8\src\Inventor\Win\viewers\SoWinViewer.cpp(1361,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  Generating Code...
+  SoWinBitmapButton.cpp
+C:\Coin3D\src\Inventor\Win\widgets\SoWinBitmapButton.cpp(374,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+  SoWinThumbWheel.cpp
+  WinNativePopupMenu.cpp
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(162,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(218,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(482,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(483,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(495,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Coin3D\src\Inventor\Win\widgets\WinNativePopupMenu.cpp(496,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  SoAnyThumbWheel.cpp
+  SoWinPopupMenu.cpp
+  Generating Code...
+  spwinput_win32.c
+  SoWinColorEditor.cpp
+  SoWinMaterialEditor.cpp
+  Generating Code...
+  Engines.cpp
+  Format.cpp
+  RadioGroup.cpp
+  Generating Code...
+  ClickCounter.cpp
+  ColorEditor.cpp
+  Frame.cpp
+  Image.cpp
+  Label.cpp
+  MaterialEditor.cpp
+  Nodes.cpp
+  Pane.cpp
+  Position.cpp
+  RadioButton.cpp
+  SceneTexture2.cpp
+  Slider1.cpp
+  Slider2.cpp
+  ToggleButton.cpp
+  Translation.cpp
+  ViewpointWrapper.cpp
+  ViewportFix.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1274,5): warning MSB8012: TargetPath(C:\Coin3D\build\msvc8\.\Debug\sowin1.dll) does not match the Linker's OutputFile property value (C:\Coin3D\build\msvc8\sowin1d.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1276,5): warning MSB8012: TargetName(sowin1) does not match the Linker's OutputFile property value (sowin1d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\Debug/sowin1d.lib and object .\Debug/sowin1d.exp
+SoAny.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual void __thiscall SoInput::setBuffer(void const *,unsigned int)" (__imp_?setBuffer@SoInput@@UAEXPBXI@Z) referenced in function "public: static class SoNode * __cdecl SoAny::loadSceneGraph(char *,unsigned int)" (?loadSceneGraph@SoAny@@SAPAVSoNode@@PADI@Z)
+SoWinRenderArea.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __thiscall SbPList::find(void const *)const " (__imp_?find@SbPList@@QBEHPBX@Z) referenced in function "public: void __thiscall SoWinRenderArea::registerDevice(class SoWinDevice *)" (?registerDevice@SoWinRenderArea@@QAEXPAVSoWinDevice@@@Z)
+FullViewer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __thiscall SbPList::find(void const *)const " (__imp_?find@SbPList@@QBEHPBX@Z)
+SoWinViewer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __thiscall SbPList::find(void const *)const " (__imp_?find@SbPList@@QBEHPBX@Z)
+ViewpointWrapper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __thiscall SbPList::find(void const *)const " (__imp_?find@SbPList@@QBEHPBX@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: int __thiscall SbDict::find(unsigned int,void * &)const " (__imp_?find@SbDict@@QBEHIAAPAX@Z)
+SoWinFlyViewer.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall SoInput::readByte(signed char &)" (?readByte@SoInput@@UAEHAAC@Z)
+SoWinPlaneViewer.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall SoInput::readByte(signed char &)" (?readByte@SoInput@@UAEHAAC@Z)
+SoWinViewer.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall SoInput::readByte(signed char &)" (?readByte@SoInput@@UAEHAAC@Z)
+SoWinFlyViewer.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoInput::setBuffer(void const *,unsigned int)" (?setBuffer@SoInput@@UAEXPBXI@Z)
+SoWinPlaneViewer.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoInput::setBuffer(void const *,unsigned int)" (?setBuffer@SoInput@@UAEXPBXI@Z)
+SoWinViewer.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoInput::setBuffer(void const *,unsigned int)" (?setBuffer@SoInput@@UAEXPBXI@Z)
+SoWinViewer.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoGroup::addWriteReference(class SoOutput *,int)" (?addWriteReference@SoGroup@@UAEXPAVSoOutput@@H@Z)
+Pane.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoGroup::addWriteReference(class SoOutput *,int)" (?addWriteReference@SoGroup@@UAEXPAVSoOutput@@H@Z)
+SoWinViewer.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoGroup::createNotRec(void)" (?createNotRec@SoGroup@@MAE?AVSoNotRec@@XZ)
+Pane.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoGroup::createNotRec(void)" (?createNotRec@SoGroup@@MAE?AVSoNotRec@@XZ)
+ViewportFix.obj : error LNK2019: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ) referenced in function "protected: virtual __thiscall SoGuiViewportFix::~SoGuiViewportFix(void)" (??1SoGuiViewportFix@@MAE@XZ)
+Slider2.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+ToggleButton.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Translation.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+ViewpointWrapper.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Position.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+RadioButton.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+SceneTexture2.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Slider1.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Frame.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Image.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Label.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+MaterialEditor.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+Format.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+RadioGroup.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+ClickCounter.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+ColorEditor.obj : error LNK2001: unresolved external symbol "protected: virtual class SoNotRec __thiscall SoBase::createNotRec(void)" (?createNotRec@SoBase@@MAE?AVSoNotRec@@XZ)
+ViewpointWrapper.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall SoSFTime::setValue(class SbTime const &)" (__imp_?setValue@SoSFTime@@QAEXABVSbTime@@@Z) referenced in function "private: void __thiscall SoGuiViewpointWrapper::sendBindEvents(class SoNode *,int)" (?sendBindEvents@SoGuiViewpointWrapper@@AAEXPAVSoNode@@H@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: class SbRotation & __thiscall SbRotation::setValue(class SbVec3f const &,float)" (__imp_?setValue@SbRotation@@QAEAAV1@ABVSbVec3f@@M@Z)
+      "__declspec(dllimport) public: void __thiscall SbTime::setValue(double)" (__imp_?setValue@SbTime@@QAEXN@Z)
+      "__declspec(dllimport) public: class SbVec2f & __thiscall SbVec2f::setValue(float,float)" (__imp_?setValue@SbVec2f@@QAEAAV1@MM@Z)
+      "__declspec(dllimport) public: class SbVec3f & __thiscall SbVec3f::setValue(float,float,float)" (__imp_?setValue@SbVec3f@@QAEAAV1@MMM@Z)
+      "__declspec(dllimport) public: void __thiscall SoMFColor::setValue(class SbColor const &)" (__imp_?setValue@SoMFColor@@QAEXABVSbColor@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoMFColor::setValue(float,float,float)" (__imp_?setValue@SoMFColor@@QAEXMMM@Z)
+      "__declspec(dllimport) public: void __thiscall SoMFFloat::setValue(float)" (__imp_?setValue@SoMFFloat@@QAEXM@Z)
+      "__declspec(dllimport) public: void __thiscall SoMFString::setValue(class SbString const &)" (__imp_?setValue@SoMFString@@QAEXABVSbString@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoMFString::setValue(char const *)" (__imp_?setValue@SoMFString@@QAEXPBD@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFBool::setValue(int)" (__imp_?setValue@SoSFBool@@QAEXH@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFColor::setValue(class SbColor const &)" (__imp_?setValue@SoSFColor@@QAEXABVSbColor@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFEnum::setValue(int)" (__imp_?setValue@SoSFEnum@@QAEXH@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFFloat::setValue(float)" (__imp_?setValue@SoSFFloat@@QAEXM@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFImage::setValue(class SbVec2s const &,int,unsigned char const *,enum SoSFImage::CopyPolicy)" (__imp_?setValue@SoSFImage@@QAEXABVSbVec2s@@HPBEW4CopyPolicy@1@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFInt32::setValue(int)" (__imp_?setValue@SoSFInt32@@QAEXH@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFNode::setValue(class SoNode *)" (__imp_?setValue@SoSFNode@@QAEXPAVSoNode@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFRotation::setValue(class SbRotation const &)" (__imp_?setValue@SoSFRotation@@QAEXABVSbRotation@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFShort::setValue(short)" (__imp_?setValue@SoSFShort@@QAEXF@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFString::setValue(class SbString const &)" (__imp_?setValue@SoSFString@@QAEXABVSbString@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFString::setValue(char const *)" (__imp_?setValue@SoSFString@@QAEXPBD@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFTrigger::setValue(void)" (__imp_?setValue@SoSFTrigger@@QAEXXZ)
+      "__declspec(dllimport) public: void __thiscall SoSFVec2f::setValue(class SbVec2f const &)" (__imp_?setValue@SoSFVec2f@@QAEXABVSbVec2f@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFVec3f::setValue(class SbVec3f const &)" (__imp_?setValue@SoSFVec3f@@QAEXABVSbVec3f@@@Z)
+      "__declspec(dllimport) public: void __thiscall SoSFVec3f::setValue(float,float,float)" (__imp_?setValue@SoSFVec3f@@QAEXMMM@Z)
+ViewpointWrapper.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoCamera::getMatrix(class SoGetMatrixAction *)" (?getMatrix@SoCamera@@UAEXPAVSoGetMatrixAction@@@Z)
+ViewpointWrapper.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall SoPerspectiveCamera::viewBoundingBox(class SbBox3f const &,float,float)" (?viewBoundingBox@SoPerspectiveCamera@@UAEXABVSbBox3f@@MM@Z)
+C:\Coin3D\lib\Coin4d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+sowin1d.dll : fatal error LNK1120: 10 unresolved externals

@@ -1,0 +1,107 @@
+/*--------------------------------------------------------------
+ *  This example program demonstrates the use of Gate Engines.
+ *
+ *  Copyright 1995 Chris Buckalew  modified 5/11/96
+ *------------------------------------------------------------*/
+
+#include <Inventor/SoDB.h>
+#include <Inventor/Xt/SoXt.h>
+#include <Inventor/Xt/SoXtRenderArea.h>
+#include <Inventor/engines/SoElapsedTime.h>
+#include <Inventor/engines/SoGate.h>
+#include <Inventor/nodes/SoDirectionalLight.h>
+#include <Inventor/nodes/SoMaterial.h>
+#include <Inventor/nodes/SoPerspectiveCamera.h>
+#include <Inventor/nodes/SoRotationXYZ.h>
+#include <Inventor/nodes/SoSeparator.h>
+#include <Inventor/nodes/SoTransform.h>
+#include <Inventor/nodes/SoTranslation.h>
+#include <Inventor/nodes/SoEventCallback.h>
+#include <Inventor/events/SoMouseButtonEvent.h>
+
+void
+mousePressCB(void *data, SoEventCallback *eventCB)
+{
+  SoGate *gate = (SoGate *) data;
+  const SoEvent *event = eventCB->getEvent();
+  // Check button pressed
+  if (SO_MOUSE_PRESS_EVENT(event, ANY)) {
+    // toggle the gate that controls the plane motion
+    if (gate->enable.getValue())
+      gate->enable.setValue(FALSE);
+    else
+      gate->enable.setValue(TRUE);
+    eventCB->setHandled();
+  }
+}
+
+void
+main(int argc, char **argv)
+{
+  // Initialize Inventor and Xt
+  Widget window = SoXt::init(argv[0]);  
+  if (window == NULL) exit(1);     
+
+  SoSeparator *root = new SoSeparator;
+  root->ref();
+
+  SoPerspectiveCamera *myCamera = new SoPerspectiveCamera;
+  myCamera->position.setValue(0.0, 2.0, 8.0);
+  myCamera->pointAt(SbVec3f(0.0, 0.0, 0.0));
+  myCamera->heightAngle = M_PI/2.5; 
+  myCamera->nearDistance = 1.0;
+  myCamera->farDistance = 50.0;
+  root->addChild(myCamera);
+  root->addChild(new SoDirectionalLight);
+
+  // rotation of plane around center
+  SoRotationXYZ *rot = new SoRotationXYZ;
+  rot->axis = SoRotationXYZ::Y;
+  root->addChild(rot);
+
+  // initial orientation of plane
+  SoTransform *initialTransform = new SoTransform;
+  initialTransform->translation.setValue(-5., 0., 0.);
+  initialTransform->scaleFactor.setValue(0.02, 0.02, 0.02);
+  initialTransform->rotation.setValue(SbVec3f(0,1,0), M_PI/2.);
+  root->addChild(initialTransform);
+  
+  // give the plane a bank
+  SoRotationXYZ *roll = new SoRotationXYZ;
+  roll->axis = SoRotationXYZ::X;
+  roll->angle = M_PI/6.0;
+  root->addChild(roll);
+
+  // Read the plane from a file 
+  SoInput planeFile;
+  if (!planeFile.openFile("p707.iv")) 
+     exit (-1);
+  SoSeparator *plane = SoDB::readAll(&planeFile);
+  if (plane == NULL) exit (-1);
+  root->addChild(plane);
+
+  // revolve over time...
+  SoElapsedTime *counter = new SoElapsedTime;
+  // ...but slowly
+  counter->speed = 0.25;
+  SoGate *gate = new SoGate(SoMFFloat::getClassTypeId());
+  gate->input->connectFrom(&counter->timeOut);
+  rot->angle.connectFrom(gate->output);         // pass into angle
+
+  // Add an event callback to catch mouse button presses
+  SoEventCallback *eventCB = new SoEventCallback;
+  eventCB->addEventCallback(
+          SoMouseButtonEvent::getClassTypeId(),
+          mousePressCB, gate);
+  root->addChild(eventCB);
+
+  SoXtRenderArea *renderArea = new SoXtRenderArea(window);
+  renderArea->setSize(SbVec2s(640, 480));
+  SbViewportRegion region(renderArea->getSize()); 
+  renderArea->setSceneGraph(root);
+  renderArea->setTitle("Gate Engine Example");
+  renderArea->show();
+
+  SoXt::show(window);
+  SoXt::mainLoop();
+}
